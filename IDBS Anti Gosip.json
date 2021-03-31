@@ -1,0 +1,165 @@
+{
+   "pc": "com.kalonghideung.liveryidbsantogosip",
+   "kang_zayvius": [
+    {
+      "id": "1",
+      "tittle": "On The Way",
+      "date": "2021-04-04",
+      "link_file": "https://archive.org/download/oppa-muda/ON%20THE%20WAY.zip",
+      "format_file":"zip",
+      "images": "https://ia801501.us.archive.org/18/items/oppa-muda/ON%20THE%20WAY.jpg"
+    },
+    {
+      "id": "2",
+      "tittle": "Cornhunter",
+      "date": "2021-04-04",
+      "link_file": "https://archive.org/download/19_20210324_202103/19.zip",
+      "format_file":"zip",
+      "images": "https://archive.org/download/19_20210322_20210322_1720/19.png"
+    },
+    {
+      "id": "3",
+      "tittle": "Fantastic",
+      "date": "2021-04-04",
+      "link_file": "https://archive.org/download/19_20210324_202103/15.zip",
+      "format_file":"zip",
+      "images": "https://archive.org/download/19_20210322_20210322_1720/15.jpg"
+    },
+    {
+      "id": "4",
+      "tittle": "Pertamina",
+      "date": "2021-04-04",
+      "link_file": "https://archive.org/download/oppa-muda/LIVERY%20PERTAMINA.zip",
+      "format_file":"zip",
+      "images": "https://archive.org/download/oppa-muda/LIVERY%20PERTAMINA.jpg"
+    },
+    {
+      "id": "5",
+      "tittle": "HM Cabe",
+      "date": "2021-04-04",
+      "link_file": "https://archive.org/download/19_20210324_202103/11.zip",
+      "format_file":"zip",
+      "images": "https://archive.org/download/19_20210322_20210322_1720/11.jpg"
+    },
+    {
+      "id": "6",
+      "tittle": "Manis",
+      "date": "2021-04-04",
+      "link_file": "https://archive.org/download/19_20210324_202103/10.zip",
+      "format_file":"zip",
+      "images": "https://archive.org/download/19_20210322_20210322_1720/10.jpg"
+    },
+    {
+      "id": "7",
+      "tittle": "Low And Slow",
+      "date": "2021-04-04",
+      "link_file": "https://archive.org/download/19_20210324_202103/1.zip",
+      "format_file":"zip",
+      "images": "https://archive.org/download/19_20210322_20210322_1720/1.png"
+     },
+    {
+      "id": "8",
+      "tittle": "Bukit Jaya",
+      "date": "2021-04-04",
+      "link_file": "https://archive.org/download/oppa-muda/BUKIT%20JAYA.zip",
+      "format_file":"zip",
+      "images": "https://ia801501.us.archive.org/18/items/oppa-muda/BUKIT%20JAYA.jpg"
+    },
+    {
+      "id": "9",
+      "tittle": "Putri Tunggal",
+      "date": "2021-04-04",
+      "link_file": "https://archive.org/download/oppa-muda/PUTRI%20TUNGGAL.zip",
+      "format_file":"zip",
+      "images": "https://ia801501.us.archive.org/18/items/oppa-muda/PUTRI%20TUNGGAL.jpg"
+    },
+    {
+     "id": "10",
+     "tittle": "Indra Jaya",
+     "date": "2021-04-04",
+     "link_file": "https://archive.org/download/19_20210324_202103/8.zip",
+     "format_file":"zip",
+     "images": "https://archive.org/download/19_20210322_20210322_1720/8.jpg"
+    },
+    {
+     "id": "11",
+     "tittle": "Proklamator",
+     "date": "2021-04-04",
+     "link_file": "https://archive.org/download/19_20210324_202103/7.zip",
+     "format_file":"zip",
+     "images": "https://archive.org/download/19_20210322_20210322_1720/7.jpg"
+    },
+    {
+     "id": "12",
+     "tittle": "GatotGaca",
+     "date": "2021-04-04",
+     "link_file": "https://archive.org/download/19_20210324_202103/6.zip",
+     "format_file":"zip",
+     "images": "https://archive.org/download/19_20210322_20210322_1720/6.jpg"
+    },
+    {
+      "id": "13",
+      "tittle": "Pesek Kece",
+      "date": "2021-04-04",
+      "link_file": "https://archive.org/download/oppa-muda/PESEK%20KECE.zip",
+      "format_file":"zip",
+      "images": "https://ia801501.us.archive.org/18/items/oppa-muda/PESEK%20KECE.jpg"
+    },
+    {
+      "id": "14",
+      "tittle": "Anti Bacot",
+      "date": "2021-04-04",
+      "link_file": "https://archive.org/download/oppa-muda/REBECCA%20ANTI%20BACOT.zip",
+      "format_file":"zip",
+      "images": "https://ia801501.us.archive.org/18/items/oppa-muda/REBECCA%20ANTI%20BACOT.jpg"
+    },
+    {
+     "id": "15",
+     "tittle": "Polos Kuning",
+     "date": "2021-04-04",
+     "link_file": "https://archive.org/download/19_20210324_202103/3.zip",
+     "format_file":"zip",
+     "images": "https://archive.org/download/19_20210322_20210322_1720/3.jpg"
+     },
+     {
+       "id": "16",
+       "tittle": "Boss Muda Bandar Sayur",
+       "date": "2021-04-04",
+       "link_file": "https://archive.org/download/oppa-muda/BOSS%20MUDA%20BANDAR%20SAYUR.zip",
+       "format_file":"zip",
+       "images": "https://ia801501.us.archive.org/18/items/oppa-muda/BOSS%20MUDA%20BANDAR%20SAYUR.jpg"
+     },
+     {
+       "id": "17",
+       "tittle": "Expedition",
+       "date": "2021-04-04",
+       "link_file": "https://archive.org/download/19_20210324_202103/19.zip",
+       "format_file":"zip",
+       "images": "https://archive.org/download/19_20210322_20210322_1720/19.png"
+     },
+     {
+      "id": "18",
+      "tittle": "Anak Rantau",
+      "date": "2021-04-04",
+      "link_file": "https://archive.org/download/19_20210324_202103/17.zip",
+      "format_file":"zip",
+     "images": "https://ia801404.us.archive.org/14/items/19_20210322_20210322_1720/17.png"
+     },
+     {
+      "id": "19",
+      "tittle": "BST factory",
+      "date": "2021-04-04",
+      "link_file": "https://archive.org/download/19_20210324_202103/16.zip",
+      "format_file":"zip",
+      "images": "https://ia801404.us.archive.org/14/items/19_20210322_20210322_1720/16.jpg"
+     },
+     {
+       "id": "20",
+       "tittle": "Rindu Dalam Do'a",
+       "date": "2021-04-04",
+       "link_file": "https://archive.org/download/oppa-muda/ANTI%20GSIP%20RINDU%20DLAM%20DOA.zip",
+       "format_file":"zip",
+       "images": "https://ia801501.us.archive.org/18/items/oppa-muda/ANTI%20GSIP%20RINDU%20DLAM%20DOA.jpg"
+     }
+   ]
+}
